@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="stilisztika.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+<style>
+    body{
+      background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgb(37, 37, 143) 50%, rgb(2, 0, 36) 100%);
+}
+    </style>
+<body>
+    <br>
+    <div class="container szoveg">
+        <div class="row"> 
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 col-xxl-3 elol">
+                    <img src="099.jpg" alt="" class="img-thumbnail kepcicoma">
+                    
+             
+                </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-9 col-xxl-9 kontener szoveg">
+                <h1 class="text-center fw-bold"><i> Ervinisták hivatalos Fóruma</i></h1>
+                <hr class="border border-dark border-3 opacity-75 mx-auto">
+                <br>
+                <h2 class="margocska fw-semibold text-center">"<i>Ervinizmus</i>" eredete</h2>
+                <p class="margocska">Az Ervinizmus feltehetőleg egészen a Római birodalom kezdetéhez vezethető vissza. A Ervin császárunk titokban hatalmas katakombákat kezdet épiteni a Nyugat Római birodalom bukásakor (kr.u 476) Konstantinápoly fővárosa alatt. A katolikus vallás központja Róma volt, Ervinistáké pedig Konstantinápoly. Késöbb a történelem folyamán egyre inkább háttérhatalommá vált. Istenünk Ervin egy idő után megunta a mediterrán éghajlatott és vissza huzta a honvágy hazájához Kárpét medence szivében lévő Magyar Kiráylsághoz. Szent István királyunk államalapitása után tökéletes időpontak bizonyult a vissza térés. István kiváltságokkal segítette a szerzetesi élet felvirágzását. Többek között a Benedek-rendet támogatta de a paplan alatt az Ervin-rendet is erősítette. Szent Istvánk kiráylunk törvénybe hozza a <b>tized</b> fizetését ezzel is erősítve a magyar egyházat meg természetesen az ervinisták-rendjét. A tized vallásunk főbevételi forrása volt ami annyit jelentett, hogy minden jobbágy élelmiszer készletének az egy tizedét be kellet szolgáltatni monumentális rendünk élelmiszer kamrájába. Ugyan a Magyar egyházi 1853-ban lemondott a tized jogáról de rendünk vezetője Ervin fodorlatos módon kieszközölte, hogy közösségünk továbbá is éljen a tized behajtásának jogával ami sikerült is. Szent Isván kora óta napjainkig él a tized privilégiuma rendünknek.</p>
+                <h2 class="margocska fw-semibold text-center">Ervin atyánkról</h2>
+                <hr class="border border-dark border-3 opacity-75 mx-auto">
+                <p class="margocska">Szent atyánk rendünk vezetője feltehetőleg a görög istenek Zeusz és Héra szerelem gyermeke. Születésekor egy python random szám generátor döntött arról hogy hány évig éljen szeretett tanítónk. Csatoltunk is egy példát ezzel is felizgatva vizuális ingercsokorunkat.</p>
+                <div class="szurke">
+                <p class="margocska">import random<br>veletlen = ramdom.randit(1,100000)<br>>>> veletlen <br>99969</p>
+            </div>
+              <p class="margocska">Mint a fent említett példában látható az ősmagyar python script egy igen szerencsés életkort szabott ki császárunknak.</p>
+              
+              <h2 class="margocska fw-semibold text-center">Ervinisták Hierarchiája</h2>
+              <hr class="border border-dark border-3 opacity-75 mx-auto">
+
+
+              <p class="margocska">Rendünkben az alá fölé rendeltetés dinamikusan dominál. Közösségünk ragjait főleg a Római birodalom közigazgatási rendszeréből vették át és formálták saját ízlésükhöz </p>
+              
+            
+            
+            </div>
+            
+
+
+    </div>
+    </div>
+    <!--</div>
+    <div class="position-absolute top-0 start-0"><div class="gomb"></div></div>
+    <div class="position-absolute top-50 end-49 translate-middle-y"><div class="gomb"></div></div>
+    <div class="position-absolute top-50 start-50 translate-middle"><div class="gomb"></div></div>
+    <div class="position-absolute top-50 start-50 translate-middle"><div class="gomb2"></div></div>
+    -->
+ 
+</body>
+</html>
+
